@@ -39,4 +39,5 @@ Este é um bot para Discord que gerencia tickets e cargos automáticos. Ele perm
 
 1. Clone the repository: | Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/meu-bot-discord.git
+   git clone https://github.com/GatonBr12/Discord-Support-Bot.git
+
